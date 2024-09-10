@@ -1,0 +1,78 @@
+const data3 = [
+    {
+      "Cust Docu No": "0004001",
+      "Material": "0004",
+      "Width": "DRSB-40009-010",
+      "Length": "Sheet MS cr3",
+      "InStock": "BUHLER",
+      "Locked": "0.00",
+      "Scrap": "89.22",
+      
+    },
+    {
+        "Cust Docu No": "0004001",
+        "Material": "0004",
+        "Width": "DRSB-40009-010",
+        "Length": "Sheet MS cr3",
+        "InStock": "BUHLER",
+        "Locked": "0.00",
+        "Scrap": "89.22",
+    },
+    {
+      "Cust Docu No": "0004001",
+      "Material": "0004",
+      "Width": "DRSB-40009-010",
+      "Length": "Sheet MS cr3",
+      "InStock": "BUHLER",
+      "Locked": "0.00",
+      "Scrap": "89.22",
+    },
+    {
+      "Cust Docu No": "0004001",
+      "Material": "0004",
+      "Width": "DRSB-40009-010",
+      "Length": "Sheet MS cr3",
+      "InStock": "BUHLER",
+      "Locked": "0.00",
+      "Scrap": "89.22",
+    },
+    {
+      "Cust Docu No": "0004001",
+      "Material": "0004",
+      "Width": "DRSB-40009-010",
+      "Length": "Sheet MS cr3",
+      "InStock": "BUHLER",
+      "Locked": "0.00",
+      "Scrap": "89.22",
+    },
+    {
+      "Cust Docu No": "0004001",
+      "Material": "0004",
+      "Width": "DRSB-40009-010",
+      "Length": "Sheet MS cr3",
+      "InStock": "BUHLER",
+      "Locked": "0.00",
+      "Scrap": "89.22",
+    },
+    {
+      "Cust Docu No": "0004001",
+      "Material": "0004",
+      "Width": "DRSB-40009-010",
+      "Length": "Sheet MS cr3",
+      "InStock": "BUHLER",
+      "Locked": "0.00",
+      "Scrap": "89.22",
+    },
+    {
+      "Cust Docu No": "0004001",
+      "Material": "0004",
+      "Width": "DRSB-40009-010",
+      "Length": "Sheet MS cr3",
+      "InStock": "BUHLER",
+      "Locked": "0.00",
+      "Scrap": "89.22",
+    },
+  ];
+  
+  export { data3 };
+  

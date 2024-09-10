@@ -1,0 +1,16 @@
+.quotation_button {
+  display: flex;
+  justify-content: right;
+}
+
+.tablebody{
+  text-align:-webkit-center;
+}
+
+.group-button{
+  margin-left: 10px;
+}
+
+
+
+
