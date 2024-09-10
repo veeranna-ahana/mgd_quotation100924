@@ -1,0 +1,88 @@
+const ILData2 = [
+  {
+    "DWG No": "KSI0021",
+    Material: "Element",
+    Quantity: "120",
+    "JW Rate": "50",
+    "Material Rate": "80",
+  },
+  {
+    "DWG No": "KSI0211",
+    Material: "ABHS",
+    Quantity: "540",
+    "JW Rate": "321",
+    "Material Rate": "544",
+  },
+  {
+    "DWG No": "KSI0021",
+    Material: "Element",
+    Quantity: "120",
+    "JW Rate": "50",
+    "Material Rate": "80",
+  },
+  {
+    "DWG No": "KSI0211",
+    Material: "ABHS",
+    Quantity: "540",
+    "JW Rate": "321",
+    "Material Rate": "544",
+  },
+  {
+    "DWG No": "KSI0021",
+    Material: "Element",
+    Quantity: "120",
+    "JW Rate": "50",
+    "Material Rate": "80",
+  },
+  {
+    "DWG No": "KSI0211",
+    Material: "ABHS",
+    Quantity: "540",
+    "JW Rate": "321",
+    "Material Rate": "544",
+  },
+  {
+    "DWG No": "KSI0021",
+    Material: "Element",
+    Quantity: "120",
+    "JW Rate": "50",
+    "Material Rate": "80",
+  },
+  {
+    "DWG No": "KSI0211",
+    Material: "ABHS",
+    Quantity: "540",
+    "JW Rate": "321",
+    "Material Rate": "544",
+  },
+  {
+    "DWG No": "KSI0021",
+    Material: "Element",
+    Quantity: "120",
+    "JW Rate": "50",
+    "Material Rate": "80",
+  },
+  {
+    "DWG No": "KSI0211",
+    Material: "ABHS",
+    Quantity: "540",
+    "JW Rate": "321",
+    "Material Rate": "544",
+  },
+  {
+    "DWG No": "KSI0021",
+    Material: "Element",
+    Quantity: "120",
+    "JW Rate": "50",
+    "Material Rate": "80",
+  },
+  {
+    "DWG No": "KSI0211",
+    Material: "ABHS",
+    Quantity: "540",
+    "JW Rate": "321",
+    "Material Rate": "544",
+  },
+];
+
+export { ILData2 };
